@@ -1,0 +1,41 @@
+[
+  {
+    "id": "01",
+    "location": "Walker Street",
+    "NMI": [3456, 5675, 6786, 7895, 5435],
+    "operatingStatus": "normal",
+    "status": true
+  },
+
+  {
+    "id": "02",
+    "location": "Junction Street",
+    "NMI": [7658, 5275, 6766, 7825, 2435],
+    "operatingStatus": "normal",
+    "status": true
+  },
+
+  {
+    "id": "03",
+    "location": "Huss Street",
+    "NMI": [3423, 5235, 6723, 7675, 5345],
+    "operatingStatus": "normal",
+    "status": true
+  },
+
+  {
+    "id": "04",
+    "location": "Johan Street",
+    "NMI": [3443, 2675, 4386, 6566, 7655],
+    "operatingStatus": "normal",
+    "status": true
+  },
+
+  {
+    "id": "05",
+    "location": "Katarina Street",
+    "NMI": [1956, 1995, 5436, 7655, 5455],
+    "operatingStatus": "normal",
+    "status": true
+  }
+]
