@@ -1,4 +1,4 @@
-
+[
   {
     "id": "01",
     "location": "Walker Street",
@@ -38,4 +38,4 @@
     "operatingStatus": "normal",
     "status": true
   }
-
+]
